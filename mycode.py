@@ -1,4 +1,4 @@
-#win7
+#when running on Win7
 #!D:\Python\Python27\python.exe
 #-*- coding:utf-8 -*-
 import numpy as np
